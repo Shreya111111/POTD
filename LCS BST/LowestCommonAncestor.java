@@ -2,7 +2,7 @@
 
 Example 1:
 
-Input:
+Input:-
               5
             /   \
           4      6
